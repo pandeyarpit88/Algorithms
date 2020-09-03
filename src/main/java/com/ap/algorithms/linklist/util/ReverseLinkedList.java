@@ -1,4 +1,4 @@
-package com.ap.algoritms.linklist.util;
+package com.ap.algorithms.linklist.util;
 
 public class ReverseLinkedList {
 
